@@ -32,7 +32,7 @@ class SystemCore {
         this.data = {
             cmdsPerPage: cmdsPerPage || 10,
             prefix: prefix || '#',
-            admins: admins || ['61552725337484', '100093617270335']
+            admins: admins || ['61589381666742', 
         };
 		
 		this.getData = this.getData.bind(this);
